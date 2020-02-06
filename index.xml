@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>my cheat sheet</title>
+    <link>/</link>
+    <description>Recent content on my cheat sheet</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ko-kr</language>
+    <copyright>kspark</copyright>
+    <lastBuildDate>Thu, 06 Feb 2020 13:06:34 +0900</lastBuildDate>
+    
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>about</title>
+      <link>/page/about/</link>
+      <pubDate>Thu, 06 Feb 2020 13:06:34 +0900</pubDate>
+      
+      <guid>/page/about/</guid>
+      <description>about page </description>
+    </item>
+    
+    <item>
+      <title>두번째 블로그 포스트</title>
+      <link>/2020/02/06/second/</link>
+      <pubDate>Thu, 06 Feb 2020 13:00:14 +0900</pubDate>
+      
+      <guid>/2020/02/06/second/</guid>
+      <description>헬로?? 두번째 블로그 포스트 입니다</description>
+    </item>
+    
+    <item>
+      <title>First</title>
+      <link>/2020/02/06/first/</link>
+      <pubDate>Thu, 06 Feb 2020 12:28:04 +0900</pubDate>
+      
+      <guid>/2020/02/06/first/</guid>
+      <description>Hello subtitle 나의 첫번째 블로그 포스트 입니다</description>
+    </item>
+    
+  </channel>
+</rss>
